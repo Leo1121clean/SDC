@@ -1,0 +1,15 @@
+itri參數
+0.4f
+no pass
+0.9 1000 1e-9
+
+nuscenes2
+yaw:5
+-x方向有車
+0.4f
+pass
+5 1000 1e-9
+
+
+nuscenes3
+yaw:2.2
